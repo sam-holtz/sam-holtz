@@ -1,11 +1,11 @@
 ## 👋 Hi, I am senior frontend engineer.
 
-### 🚀 Senior Frontend Architect | ⚡ Next.js | 🧩 Scalable Web Applications
+### Senior Frontend Architect | Next.js | Scalable Web Applications
 
 ## 🧠 About Me
 
 💻 Senior frontend-focused engineer with **5+ years of experience** building **fast, scalable, and maintainable web applications** for startups and product teams.
-I specialize in 🧩 frontend architecture, ⚡ performance optimization, and 🖥 complex UI systems using modern JavaScript frameworks.
+I specialize in 🧩 frontend architecture, ⚡ performance optimization, and complex UI systems using modern JavaScript frameworks.
 
 🤖 Recently, I’ve been working on **AI-driven features and automation**, helping teams turn ideas into **practical, production-ready functionality**.
 I’m comfortable taking 🔑 ownership, making technical decisions, and working directly with founders in 🚀 fast-paced environments — from early MVPs to high-traffic products.
@@ -67,9 +67,3 @@ I’m comfortable taking 🔑 ownership, making technical decisions, and working
 ✨ *Focused on clean architecture, long-term maintainability, and real-world performance.*
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=sam-holtz&show_icons=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-holtz&layout=compact)
-
-### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/sam-holtz/)
