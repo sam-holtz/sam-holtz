@@ -1,4 +1,4 @@
-## 👋 Hi, I am senior frontend engineer.
+## 👋 Hi, I am Sam.
 
 ### Senior Frontend Architect | Next.js | Scalable Web Applications
 
