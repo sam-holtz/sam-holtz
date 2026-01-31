@@ -56,14 +56,6 @@ I’m comfortable taking 🔑 ownership, making technical decisions, and working
 
 ---
 
-### 🧑‍💻 Collaboration & Delivery
-
-* 🤝 Cross-functional collaboration with product, backend, and design teams
-* 📦 Ownership of features from concept to production
-* 🧯 Improving and stabilizing existing frontend systems
-
----
-
 ✨ *Focused on clean architecture, long-term maintainability, and real-world performance.*
 
 ---
