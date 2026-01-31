@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sam
+## 👋 Hi, I'm Vladyslav
 
 **Senior Frontend Architect** · Next.js · Scalable Web Apps
 
