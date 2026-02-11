@@ -5,7 +5,7 @@
 ## 🧭 Profile
 | 🎯 Area       | Summary                                |
 | ------------- | -------------------------------------- |
-| 🕒 Experience | 5+ years frontend engineering          |
+| 🕒 Experience | 7+ years frontend engineering          |
 | 🏗 Focus      | Frontend architecture, performance     |
 | 🚀 Products   | Startups, SaaS, data-heavy apps        |
 | 🤝 Style      | Ownership, founder-level collaboration |
